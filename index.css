@@ -22,7 +22,7 @@ body {
     font-family: 'Michroma', sans-serif;
     color: var(--secondary-text-color);
     line-height: 1.6;
-    height: 100gh;
+    height: 100vh;
 }
 
 ul {
